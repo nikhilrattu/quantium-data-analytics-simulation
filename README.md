@@ -1,4 +1,5 @@
 ﻿# Quantium Data Analytics Job Simulation
+End-to-end retail analytics project completed through the **Quantium Data Analytics Virtual Experience** on [Forage](https://www.theforage.com/). Working as a data analyst supporting a supermarket's **Chips category**
 
 End-to-end retail analytics project completed through the **Quantium Data Analytics Virtual Experience** on [Forage](https://www.theforage.com/). Working as a data analyst supporting a supermarket's **Chips category**, the project runs the full analytics lifecycle: cleaning raw transaction data, profiling customer segments, designing and evaluating a controlled store experiment, and turning the findings into a commercial recommendation for a category manager.
 
