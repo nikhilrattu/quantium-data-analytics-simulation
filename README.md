@@ -8,7 +8,7 @@ End-to-end retail analytics project completed through the **Quantium Data Analyt
 
 ## Overview
 
-The client wanted answers to two business questions:
+The client wanted answers to two business questions-
 
 1. **Who drives chip sales, and what do they buy?** — so range, pack and promotional effort can be focused where it matters.
 2. **Did a new in-store layout trial actually work?** — measured against comparable stores, isolating the trial's true effect from seasonality and market-wide trends.
